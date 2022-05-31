@@ -15,7 +15,7 @@ public class ApplicationArrayList {
                     arrayList.add(num);
                 }
             System.out.println(arrayList);
-            ArrayListMethode.arrayList(arrayList);
+            ArrayListMethode2.arrayList2(arrayList);
             }catch (Exception e){
                 System.out.println("enter correct number");
             }
